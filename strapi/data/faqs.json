@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "documentId": "jj6saqw6qnszawsvalcc7uqz",
+            "question": "What is LaunchPad",
+            "answer": "LaunchPad is a content delivery solution that uses advanced technology to send your web content into orbit, ensuring fast and reliable delivery to your audience.",
+            "createdAt": "2024-08-07T17:05:52.227Z",
+            "updatedAt": "2024-08-07T17:05:53.048Z",
+            "publishedAt": "2024-08-07T17:05:53.052Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 12,
+                    "documentId": "jj6saqw6qnszawsvalcc7uqz",
+                    "question": "Qu'est-ce que LaunchPad",
+                    "answer": "LaunchPad est une solution de diffusion de contenu qui utilise une technologie avanc\u00e9e pour envoyer votre contenu Web en orbite, garantissant une diffusion rapide et fiable \u00e0 votre public.",
+                    "createdAt": "2024-09-10T16:31:10.254Z",
+                    "updatedAt": "2024-09-10T16:31:10.254Z",
+                    "publishedAt": "2024-09-10T16:31:10.246Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 2,
+            "documentId": "alz9e38srinjeb3qelg9shxs",
+            "question": "How do I get started with LaunchPad?",
+            "answer": "Getting started is easy! Simply sign up for an account, choose your plan, buy some additional features or not, prepare your content, and launch it using our intuitive mission control dashboard.",
+            "createdAt": "2024-08-07T17:06:28.596Z",
+            "updatedAt": "2024-08-07T17:06:28.596Z",
+            "publishedAt": "2024-08-07T17:06:28.591Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 9,
+                    "documentId": "alz9e38srinjeb3qelg9shxs",
+                    "question": "Comment d\u00e9marrer avec LaunchPad\u00a0?",
+                    "answer": "D\u00e9marrer est facile ! Cr\u00e9ez simplement un compte, choisissez votre forfait, achetez ou non des fonctionnalit\u00e9s suppl\u00e9mentaires, pr\u00e9parez votre contenu et lancez-le \u00e0 l'aide de notre tableau de bord de contr\u00f4le de mission intuitif.",
+                    "createdAt": "2024-09-10T16:26:45.338Z",
+                    "updatedAt": "2024-09-10T16:26:45.338Z",
+                    "publishedAt": "2024-09-10T16:26:45.330Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 3,
+            "documentId": "gjgi3rlniru9rsx6xdt1pxwa",
+            "question": "What are the different pricing plans available?",
+            "answer": "We offer four pricing plans: Starter Shuttle ($100/launch), Pro Rocket ($3,000/launch), Team Explorer ($15,000/launch), and Enterprise Shuttle (Contact us for pricing). Each plan comes with its own set of features to suit different needs.",
+            "createdAt": "2024-08-07T17:06:38.403Z",
+            "updatedAt": "2024-09-10T16:29:15.419Z",
+            "publishedAt": "2024-09-10T16:29:15.404Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 10,
+                    "documentId": "gjgi3rlniru9rsx6xdt1pxwa",
+                    "question": "Quels sont les diff\u00e9rents plans tarifaires disponibles ?",
+                    "answer": "Nous proposons quatre formules tarifaires\u00a0: Starter Shuttle (100\u00a0$/lancement), Pro Rocket (3\u00a0000\u00a0$/lancement), Team Explorer (15\u00a0000\u00a0$/lancement) et Enterprise Shuttle (contactez-nous pour conna\u00eetre les tarifs). Chaque formule est dot\u00e9e de son propre ensemble de fonctionnalit\u00e9s pour r\u00e9pondre \u00e0 diff\u00e9rents besoins.",
+                    "createdAt": "2024-09-10T16:29:36.930Z",
+                    "updatedAt": "2024-09-10T16:29:36.930Z",
+                    "publishedAt": "2024-09-10T16:29:36.925Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 4,
+            "documentId": "hvudc0q3ykes3dklhth5amr6",
+            "question": "What happens if I exceed the content item limit for my plan?",
+            "answer": "If you exceed the content item limit for your plan, you will need to upgrade to a higher plan or purchase additional launches to accommodate your content.",
+            "createdAt": "2024-08-07T17:06:46.603Z",
+            "updatedAt": "2024-08-07T17:06:46.603Z",
+            "publishedAt": "2024-08-07T17:06:46.601Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 13,
+                    "documentId": "hvudc0q3ykes3dklhth5amr6",
+                    "question": "Que se passe-t-il si je d\u00e9passe la limite d\u2019\u00e9l\u00e9ments de contenu de mon forfait\u00a0?",
+                    "answer": "Si vous d\u00e9passez la limite d'\u00e9l\u00e9ments de contenu de votre forfait, vous devrez passer \u00e0 un forfait sup\u00e9rieur ou acheter des lancements suppl\u00e9mentaires pour accueillir votre contenu.",
+                    "createdAt": "2024-09-10T16:31:38.687Z",
+                    "updatedAt": "2024-09-10T16:31:38.687Z",
+                    "publishedAt": "2024-09-10T16:31:38.680Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 5,
+            "documentId": "fiakgut1yf97lr2utkicjwka",
+            "question": "Is there a way to track the performance of my launched content?",
+            "answer": "Yes, all our plans include analytics features that allow you to track the performance of your launched content. Higher-tier plans offer more advanced analytics and reporting options.",
+            "createdAt": "2024-08-07T17:06:58.517Z",
+            "updatedAt": "2024-09-10T16:30:22.425Z",
+            "publishedAt": "2024-09-10T16:30:22.420Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 11,
+                    "documentId": "fiakgut1yf97lr2utkicjwka",
+                    "question": "Existe-t-il un moyen de suivre les performances de mon contenu lanc\u00e9 ?",
+                    "answer": "Oui, tous nos forfaits incluent des fonctionnalit\u00e9s d'analyse qui vous permettent de suivre les performances de votre contenu lanc\u00e9. Les forfaits de niveau sup\u00e9rieur offrent des options d'analyse et de cr\u00e9ation de rapports plus avanc\u00e9es.",
+                    "createdAt": "2024-09-10T16:30:41.606Z",
+                    "updatedAt": "2024-09-10T16:30:41.606Z",
+                    "publishedAt": "2024-09-10T16:30:41.592Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 6,
+            "documentId": "usv3te47a9xpr2w18no95ttj",
+            "question": "What support options are available if I encounter issues?",
+            "answer": "We offer priority support for Pro Rocket, Team Explorer, and Enterprise Shuttle plans. For other plans, standard support is available via our help center and email.",
+            "createdAt": "2024-08-07T17:07:06.454Z",
+            "updatedAt": "2024-08-07T17:07:06.454Z",
+            "publishedAt": "2024-08-07T17:07:06.451Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 14,
+                    "documentId": "usv3te47a9xpr2w18no95ttj",
+                    "question": "Quelles options d\u2019assistance sont disponibles si je rencontre des probl\u00e8mes ?",
+                    "answer": "Nous proposons une assistance prioritaire pour les forfaits Pro Rocket, Team Explorer et Enterprise Shuttle. Pour les autres forfaits, une assistance standard est disponible via notre centre d'aide et par e-mail.",
+                    "createdAt": "2024-09-10T16:32:03.076Z",
+                    "updatedAt": "2024-09-10T16:32:03.076Z",
+                    "publishedAt": "2024-09-10T16:32:03.071Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 7,
+            "documentId": "n91o8tzvokmu3zfpqxfahec4",
+            "question": "Can I integrate LaunchPad with other tools and platforms?",
+            "answer": "Yes, LaunchPad supports integration with various third-party tools and platforms. Our Enterprise Integration Kit offers customizable integration options for complex needs.",
+            "createdAt": "2024-08-07T17:07:15.099Z",
+            "updatedAt": "2024-08-07T17:07:15.099Z",
+            "publishedAt": "2024-08-07T17:07:15.097Z",
+            "locale": "en",
+            "localizations": [
+                {
+                    "id": 8,
+                    "documentId": "n91o8tzvokmu3zfpqxfahec4",
+                    "question": "Puis-je int\u00e9grer LaunchPad avec d\u2019autres outils et plateformes\u00a0?",
+                    "answer": "Oui, LaunchPad prend en charge l'int\u00e9gration avec divers outils et plateformes tiers. Notre kit d'int\u00e9gration d'entreprise offre des options d'int\u00e9gration personnalisables pour les besoins complexes.",
+                    "createdAt": "2024-09-10T16:26:14.423Z",
+                    "updatedAt": "2024-09-10T16:26:14.423Z",
+                    "publishedAt": "2024-09-10T16:26:14.415Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 7
+        }
+    }
+}

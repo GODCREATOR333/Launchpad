@@ -1,0 +1,138 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "documentId": "d8w83hagb4ay3ajmk5zrb2d8",
+            "text": "LaunchPad transformed our content delivery. It's like having a personal space shuttle for our website!",
+            "createdAt": "2024-08-07T10:04:29.669Z",
+            "updatedAt": "2024-08-07T10:04:31.072Z",
+            "publishedAt": "2024-08-07T10:04:31.079Z",
+            "locale": "en",
+            "user": {
+                "id": 26,
+                "firstname": "Jane",
+                "lastname": "Doe",
+                "job": "Content Manager"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 4,
+            "documentId": "ny2c7b5g5pa3i8h4b7vi79a0",
+            "text": "Using LaunchPad is too easy. Our content is delivered at warp speed!",
+            "createdAt": "2024-08-07T10:05:22.495Z",
+            "updatedAt": "2024-08-07T10:05:23.161Z",
+            "publishedAt": "2024-08-07T10:05:23.166Z",
+            "locale": "en",
+            "user": {
+                "id": 28,
+                "firstname": "Alfred",
+                "lastname": "Pecker",
+                "job": "Developer"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 6,
+            "documentId": "kr7r5q2iza2vzlajh2i938j7",
+            "text": "LaunchPad revolutionized the way we deliver content. The speed and reliability are unmatched, making our campaigns more effective and reaching our audience faster than ever.",
+            "createdAt": "2024-08-07T14:23:33.633Z",
+            "updatedAt": "2024-08-07T14:24:11.381Z",
+            "publishedAt": "2024-08-07T14:24:11.388Z",
+            "locale": "en",
+            "user": {
+                "id": 30,
+                "firstname": "Alice",
+                "lastname": "Johnson",
+                "job": "Digital Marketer"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 8,
+            "documentId": "tbao7dw1fgbph9imuzmsooeg",
+            "text": "Using LaunchPad has been a game-changer for our team. The intuitive interface and powerful features allow us to focus on creating great content while knowing it will be delivered flawlessly.",
+            "createdAt": "2024-08-07T14:25:21.688Z",
+            "updatedAt": "2024-08-07T14:25:22.714Z",
+            "publishedAt": "2024-08-07T14:25:22.720Z",
+            "locale": "en",
+            "user": {
+                "id": 32,
+                "firstname": "Carlos",
+                "lastname": "Fernandez",
+                "job": "Content Strategist"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 10,
+            "documentId": "wvo6g0jw5594u8cx590yqxdk",
+            "text": "Integrating LaunchPad into our workflow was seamless. The advanced analytics and reporting tools give us valuable insights, helping us to continuously improve our content strategy.",
+            "createdAt": "2024-08-07T14:26:55.708Z",
+            "updatedAt": "2024-08-07T14:26:57.365Z",
+            "publishedAt": "2024-08-07T14:26:57.371Z",
+            "locale": "en",
+            "user": {
+                "id": 34,
+                "firstname": "Emily",
+                "lastname": "Chen",
+                "job": "Web Developer"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 12,
+            "documentId": "un76c4x9venhuczod59sp6sn",
+            "text": "With LaunchPad, our content reaches our audience without delay. The real-time tracking and performance monitoring have significantly enhanced our SEO efforts, resulting in better search rankings.",
+            "createdAt": "2024-08-07T14:27:57.899Z",
+            "updatedAt": "2024-08-07T14:27:59.110Z",
+            "publishedAt": "2024-08-07T14:27:59.116Z",
+            "locale": "en",
+            "user": {
+                "id": 36,
+                "firstname": "David",
+                "lastname": "Lee",
+                "job": "SEO Specialist"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 14,
+            "documentId": "gbsa3jr6cntie19vqkvndbyx",
+            "text": "LaunchPad provides the reliability and efficiency we need for our product updates. The team collaboration tools and priority support ensure smooth launches every time, keeping our users informed and engaged.",
+            "createdAt": "2024-08-07T14:28:22.356Z",
+            "updatedAt": "2024-08-07T14:28:23.350Z",
+            "publishedAt": "2024-08-07T14:28:23.355Z",
+            "locale": "en",
+            "user": {
+                "id": 38,
+                "firstname": "Sophia",
+                "lastname": "Martinez",
+                "job": "Product Manager"
+            },
+            "localizations": [],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 7
+        }
+    }
+}

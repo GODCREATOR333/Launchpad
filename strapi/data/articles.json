@@ -1,0 +1,2355 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "documentId": "oqtq05m9iz4bryv5ryjf5wz2",
+      "title": "Not a Guide to Integrating Strapi with Next.js",
+      "description": "Looking to streamline your content management and delivery? This comprehensive guide walks you through the seamless integration of Strapi with Next.js. We'll cover everything (false) from initial setup to advanced configurations (nope), ensuring you have all the tools you need to send your content soaring (sure...).",
+      "slug": "not-a-guide-to-integrating-strapi-with-next-js",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Are you ready to elevate your content management and streamline your web development workflow? Integrating Strapi, a powerful headless CMS, with Next.js, the popular React framework, is the perfect combination for fast, dynamic websites and applications. In this guide, we\u2019ll walk you through every step of the integration process\u2014from initial setup to advanced configurations\u2014so you can take full advantage of both platforms."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Why Integrate Strapi with Next.js?"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Combining Strapi with Next.js offers developers a flexible and scalable way to manage and deliver content. Strapi provides a headless CMS that allows you to easily create and manage content without being tied to a specific frontend, while Next.js ensures high-performance, server-side rendering, static site generation, and a smooth user experience."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 1: Setting Up Strapi"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "First, you\u2019ll need to set up your Strapi CMS. This involves:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Installing Strapi on your local or remote server"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Creating your API endpoints"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Configuring content types and adding your data Strapi\u2019s intuitive admin panel allows you to manage your content and APIs with ease, giving you full control over what\u2019s delivered to your Next.js frontend."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 2: Configuring Next.js"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Next, you\u2019ll configure your Next.js application to fetch and render data from Strapi. This involves setting up API calls using Next.js' data-fetching methods like getStaticProps or getServerSideProps. With Strapi's well-structured API and powerful GraphQL or REST integrations, fetching content dynamically is simple and efficient."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 3: Fetching Data from Strapi"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Once your Next.js app is connected, you can pull in data directly from Strapi. This allows you to build dynamic pages or even entire applications that reflect your content updates in real time. Use API requests in Next.js to access your Strapi content and display it seamlessly in your frontend."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 4: Advanced Configurations"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As your project scales, you might need advanced features such as:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Authentication: Secure your content using Strapi's built-in authentication methods, or integrate third-party solutions."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Custom Plugins: Extend Strapi with custom plugins to add new functionalities tailored to your needs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Static Site Generation (SSG): Take advantage of Next.js' static site generation for faster load times and better SEO, while still pulling in dynamic content from Strapi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusion"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Integrating Strapi with Next.js is a powerful way to enhance your content management and website performance. From easy setup to robust customization, this combination ensures you have all the tools to send your content soaring. Whether you\u2019re building a small blog or a large-scale application, Strapi and Next.js offer the flexibility and speed you need to stay ahead of the curve."
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-08-07T17:08:42.921Z",
+      "updatedAt": "2024-09-11T15:04:56.829Z",
+      "publishedAt": "2024-09-11T15:04:56.845Z",
+      "locale": "en",
+      "seo": null,
+      "categories": [
+        {
+          "id": 8,
+          "documentId": "f0hsc82gdj5yax2ukpvx394s",
+          "name": "content",
+          "createdAt": "2024-09-11T14:20:17.657Z",
+          "updatedAt": "2024-09-11T14:20:17.657Z",
+          "publishedAt": "2024-09-11T14:20:17.654Z"
+        },
+        {
+          "id": 3,
+          "documentId": "fi5rtzu2jzqnmzvjg27w45pl",
+          "name": "software",
+          "createdAt": "2024-08-07T14:34:57.647Z",
+          "updatedAt": "2024-08-07T14:34:57.647Z",
+          "publishedAt": "2024-08-07T14:34:57.644Z"
+        }
+      ],
+      "dynamic_zone": [
+        {
+          "__component": "dynamic-zone.related-articles",
+          "id": 6,
+          "heading": "Other interesting articles",
+          "sub_heading": null
+        }
+      ],
+      "image": {
+        "id": 36,
+        "documentId": "h9blm4on9583p0vnwczdvkpa",
+        "name": "A futuristic web development scene showing the integration of a content management system (Strapi) with a web framework (Next.js). On one side, a user.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_A futuristic web development scene showing the integration of a content management system (Strapi) with a web framework (Next.js). On one side, a user.webp",
+            "hash": "thumbnail_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 156,
+            "height": 156,
+            "size": 8.18,
+            "sizeInBytes": 8176,
+            "url": "/uploads/thumbnail_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d.webp"
+          },
+          "small": {
+            "name": "small_A futuristic web development scene showing the integration of a content management system (Strapi) with a web framework (Next.js). On one side, a user.webp",
+            "hash": "small_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 500,
+            "height": 500,
+            "size": 62.73,
+            "sizeInBytes": 62726,
+            "url": "/uploads/small_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d.webp"
+          },
+          "medium": {
+            "name": "medium_A futuristic web development scene showing the integration of a content management system (Strapi) with a web framework (Next.js). On one side, a user.webp",
+            "hash": "medium_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 750,
+            "height": 750,
+            "size": 120.03,
+            "sizeInBytes": 120028,
+            "url": "/uploads/medium_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d.webp"
+          },
+          "large": {
+            "name": "large_A futuristic web development scene showing the integration of a content management system (Strapi) with a web framework (Next.js). On one side, a user.webp",
+            "hash": "large_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 1000,
+            "height": 1000,
+            "size": 177.38,
+            "sizeInBytes": 177384,
+            "url": "/uploads/large_A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d.webp"
+          }
+        },
+        "hash": "A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 226.84,
+        "url": "/uploads/A_futuristic_web_development_scene_showing_the_integration_of_a_content_management_system_Strapi_with_a_web_framework_Next_js_On_one_side_a_user_94b9fc7c0d.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-11T14:58:37.628Z",
+        "updatedAt": "2025-03-25T15:56:47.148Z",
+        "publishedAt": "2024-09-11T14:58:37.628Z"
+      },
+      "localizations": [
+        {
+          "id": 12,
+          "documentId": "oqtq05m9iz4bryv5ryjf5wz2",
+          "title": "Pas un guide pour int\u00e9grer Strapi avec Next.js",
+          "description": "Ce guide pas du tout complet vous guide tout au long de l'int\u00e9gration de Strapi avec Next.js. Nous couvrirons pas grand chose, de la configuration initiale aux configurations avanc\u00e9es (faux), en veillant \u00e0 ce que vous disposiez de tous les outils dont vous avez besoin pour faire d\u00e9coller votre contenu (non).",
+          "slug": "pas-un-guide-pour-integrer-strapi-avec-next-js",
+          "content": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Vous \u00eates pr\u00eat \u00e0 optimiser la gestion de votre contenu et \u00e0 rationaliser votre flux de travail de d\u00e9veloppement web ? L'int\u00e9gration de Strapi, un puissant CMS headless, avec Next.js, le c\u00e9l\u00e8bre framework React, est la combinaison id\u00e9ale pour des sites web et des applications rapides et dynamiques. Dans ce guide, nous vous expliquons chaque \u00e9tape du processus d'int\u00e9gration, de l'installation initiale aux configurations avanc\u00e9es, afin que vous puissiez tirer pleinement parti des deux plateformes."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pourquoi Int\u00e9grer Strapi avec Next.js ?"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Combiner Strapi avec Next.js offre aux d\u00e9veloppeurs un moyen flexible et \u00e9volutif de g\u00e9rer et de diffuser du contenu. Strapi vous permet de cr\u00e9er et g\u00e9rer facilement du contenu sans \u00eatre li\u00e9 \u00e0 un front-end sp\u00e9cifique, tandis que Next.js garantit un rendu c\u00f4t\u00e9 serveur performant, la g\u00e9n\u00e9ration statique de sites, et une exp\u00e9rience utilisateur fluide."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Configurer Strapi"
+                }
+              ],
+              "level": 5
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tout d'abord, vous devez configurer votre CMS Strapi. Cela implique :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Installer Strapi sur votre serveur local ou distant"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Cr\u00e9er vos points de terminaison API"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Configurer les types de contenu et ajouter vos donn\u00e9es"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le panneau d'administration intuitif de Strapi vous permet de g\u00e9rer facilement votre contenu et vos API, vous donnant un contr\u00f4le total sur ce qui est livr\u00e9 \u00e0 votre front-end Next.js."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Configurer Next.js"
+                }
+              ],
+              "level": 5
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ensuite, vous allez configurer votre application Next.js pour r\u00e9cup\u00e9rer et afficher les donn\u00e9es de Strapi. Cela implique de configurer des appels API en utilisant des m\u00e9thodes de r\u00e9cup\u00e9ration de donn\u00e9es de Next.js telles que `getStaticProps` ou `getServerSideProps`. Gr\u00e2ce \u00e0 l'API bien structur\u00e9e de Strapi et \u00e0 ses puissantes int\u00e9grations GraphQL ou REST, la r\u00e9cup\u00e9ration de contenu de mani\u00e8re dynamique devient simple et efficace."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "R\u00e9cup\u00e9rer des Donn\u00e9es depuis Strapi"
+                }
+              ],
+              "level": 5
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Une fois votre application Next.js connect\u00e9e, vous pouvez extraire directement des donn\u00e9es de Strapi. Cela vous permet de cr\u00e9er des pages dynamiques ou m\u00eame des applications compl\u00e8tes qui refl\u00e8tent vos mises \u00e0 jour de contenu en temps r\u00e9el. Utilisez des requ\u00eates API dans Next.js pour acc\u00e9der \u00e0 votre contenu Strapi et l'afficher sans interruption sur votre front-end."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Configurations Avanc\u00e9es"
+                }
+              ],
+              "level": 5
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\u00c0 mesure que votre projet se d\u00e9veloppe, vous pourriez avoir besoin de fonctionnalit\u00e9s avanc\u00e9es telles que :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Authentification",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": S\u00e9curisez votre contenu gr\u00e2ce aux m\u00e9thodes d'authentification int\u00e9gr\u00e9es de Strapi, ou int\u00e9grez des solutions tierces."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Plugins Personnalis\u00e9s",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": \u00c9tendez les fonctionnalit\u00e9s de Strapi avec des plugins personnalis\u00e9s adapt\u00e9s \u00e0 vos besoins sp\u00e9cifiques."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "G\u00e9n\u00e9ration Statique de Sites (SSG)",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Profitez de la g\u00e9n\u00e9ration statique de sites de Next.js pour des temps de chargement plus rapides et un meilleur SEO, tout en r\u00e9cup\u00e9rant du contenu dynamique de Strapi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conclusion"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "L'int\u00e9gration de Strapi avec Next.js est un moyen puissant d'am\u00e9liorer la gestion de votre contenu et les performances de votre site web. De la configuration simple \u00e0 la personnalisation robuste, cette combinaison garantit que vous disposez de tous les outils n\u00e9cessaires pour faire d\u00e9coller votre contenu. Que vous construisiez un petit blog ou une grande application, Strapi et Next.js offrent la flexibilit\u00e9 et la rapidit\u00e9 dont vous avez besoin pour rester \u00e0 la pointe."
+                }
+              ]
+            }
+          ],
+          "createdAt": "2024-09-11T15:03:37.226Z",
+          "updatedAt": "2024-09-12T08:58:14.660Z",
+          "publishedAt": "2024-09-12T08:58:14.680Z",
+          "locale": "fr"
+        }
+      ],
+      "strapi_stage": null,
+      "strapi_assignee": null
+    },
+    {
+      "id": 7,
+      "documentId": "p6khbwj0s2g1y8xgtl8rpsys",
+      "title": "5 Reasons Why Your Content Needs to Go Orbital",
+      "description": "Discover the top five benefits of launching your content into orbit with LaunchPad. From faster delivery speeds to unparalleled scalability, learn why your content deserves a space-age solution. Find out how LaunchPad can transform the way you manage and deliver your digital assets.",
+      "slug": "5-reasons-why-your-content-needs-to-go-orbital",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "In today\u2019s fast-paced digital world, content delivery is everything. With the rise of global demand for real-time access to digital assets, traditional delivery methods can no longer keep up. Enter LaunchPad\u2014a space-age solution designed to catapult your content into orbit. But why should you make the leap? Here are the top five reasons why your content needs to go orbital:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Faster Delivery Speeds"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Time is money, and in the digital age, speed is critical. LaunchPad uses cutting-edge technology to ensure your content reaches your audience at lightning-fast speeds. Whether it's a video, app update, or large data set, LaunchPad ensures that latency is a thing of the past, providing your users with seamless access, wherever they are in the world."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "name": "rocket-4.png",
+            "alternativeText": "rocket-4.png",
+            "url": "http://localhost:1337/uploads/rocket_4_55fae57ea4.png",
+            "caption": null,
+            "width": 1024,
+            "height": 1024,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_rocket-4.png",
+                "hash": "thumbnail_rocket_4_55fae57ea4",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 156,
+                "height": 156,
+                "size": 61.79,
+                "sizeInBytes": 61794,
+                "url": "/uploads/thumbnail_rocket_4_55fae57ea4.png"
+              },
+              "small": {
+                "name": "small_rocket-4.png",
+                "hash": "small_rocket_4_55fae57ea4",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 500,
+                "size": 576.79,
+                "sizeInBytes": 576791,
+                "url": "/uploads/small_rocket_4_55fae57ea4.png"
+              },
+              "medium": {
+                "name": "medium_rocket-4.png",
+                "hash": "medium_rocket_4_55fae57ea4",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 750,
+                "size": 1262.19,
+                "sizeInBytes": 1262185,
+                "url": "/uploads/medium_rocket_4_55fae57ea4.png"
+              },
+              "large": {
+                "name": "large_rocket-4.png",
+                "hash": "large_rocket_4_55fae57ea4",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 1000,
+                "size": 2128.09,
+                "sizeInBytes": 2128095,
+                "url": "/uploads/large_rocket_4_55fae57ea4.png"
+              }
+            },
+            "hash": "rocket_4_55fae57ea4",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 558.98,
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-08-07T14:30:25.318Z",
+            "updatedAt": "2024-08-07T14:30:25.318Z"
+          },
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Unmatched Scalability"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As your business grows, so does the need to manage more content and distribute it to larger audiences. LaunchPad offers unparalleled scalability, allowing your content delivery to scale effortlessly without compromising performance. Whether you\u2019re reaching thousands or millions, you\u2019ll never have to worry about bottlenecks or downtime."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Global Reach"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "With LaunchPad, geographical barriers become irrelevant. Your content will be delivered globally with ease, reaching audiences in even the most remote corners of the planet. The platform\u2019s innovative infrastructure allows your digital assets to orbit the globe, providing a consistent and reliable experience for all users, regardless of location."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "name": "dashboard.png",
+            "alternativeText": "dashboard.png",
+            "url": "http://localhost:1337/uploads/dashboard_106c0d6b4b.png",
+            "caption": null,
+            "width": 1024,
+            "height": 1024,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_dashboard.png",
+                "hash": "thumbnail_dashboard_106c0d6b4b",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 156,
+                "height": 156,
+                "size": 44.97,
+                "sizeInBytes": 44969,
+                "url": "/uploads/thumbnail_dashboard_106c0d6b4b.png"
+              },
+              "small": {
+                "name": "small_dashboard.png",
+                "hash": "small_dashboard_106c0d6b4b",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 500,
+                "size": 357.2,
+                "sizeInBytes": 357198,
+                "url": "/uploads/small_dashboard_106c0d6b4b.png"
+              },
+              "medium": {
+                "name": "medium_dashboard.png",
+                "hash": "medium_dashboard_106c0d6b4b",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 750,
+                "size": 756.1,
+                "sizeInBytes": 756097,
+                "url": "/uploads/medium_dashboard_106c0d6b4b.png"
+              },
+              "large": {
+                "name": "large_dashboard.png",
+                "hash": "large_dashboard_106c0d6b4b",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 1000,
+                "size": 1230.03,
+                "sizeInBytes": 1230028,
+                "url": "/uploads/large_dashboard_106c0d6b4b.png"
+              }
+            },
+            "hash": "dashboard_106c0d6b4b",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 364.41,
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-08-07T14:30:24.247Z",
+            "updatedAt": "2024-08-07T14:30:24.247Z"
+          },
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enhanced Security"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Your content is valuable, and LaunchPad takes its protection seriously. With built-in, state-of-the-art security features, your digital assets are kept safe from unauthorized access or data breaches. From encryption to continuous monitoring, you can trust that your content is protected in orbit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Future-Proof Technology"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As technology evolves, so must your content delivery. LaunchPad is designed with future-proof capabilities, meaning you can rest assured that your content strategy will remain relevant and competitive. With constant updates and a forward-thinking infrastructure, LaunchPad ensures you\u2019re always ahead of the curve."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusion"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Going orbital with your content isn\u2019t just about adopting a futuristic approach\u2014it\u2019s about staying competitive in a rapidly evolving digital landscape. LaunchPad offers the speed, scalability, security, and global reach your content needs to thrive. It\u2019s time to take your content strategy to new heights."
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-08-07T17:08:24.165Z",
+      "updatedAt": "2024-09-11T15:21:08.347Z",
+      "publishedAt": "2024-09-11T15:21:08.369Z",
+      "locale": "en",
+      "seo": null,
+      "categories": [
+        {
+          "id": 8,
+          "documentId": "f0hsc82gdj5yax2ukpvx394s",
+          "name": "content",
+          "createdAt": "2024-09-11T14:20:17.657Z",
+          "updatedAt": "2024-09-11T14:20:17.657Z",
+          "publishedAt": "2024-09-11T14:20:17.654Z"
+        }
+      ],
+      "dynamic_zone": [
+        {
+          "__component": "dynamic-zone.related-articles",
+          "id": 7,
+          "heading": "Some other interesting read",
+          "sub_heading": null
+        }
+      ],
+      "image": {
+        "id": 35,
+        "documentId": "ku7lzggrzv2f3acfe0dm61wy",
+        "name": "A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+        "alternativeText": "A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+            "hash": "thumbnail_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 156,
+            "height": 156,
+            "size": 7.63,
+            "sizeInBytes": 7634,
+            "url": "/uploads/thumbnail_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267.webp"
+          },
+          "small": {
+            "name": "small_A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+            "hash": "small_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 500,
+            "height": 500,
+            "size": 56.52,
+            "sizeInBytes": 56520,
+            "url": "/uploads/small_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267.webp"
+          },
+          "medium": {
+            "name": "medium_A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+            "hash": "medium_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 750,
+            "height": 750,
+            "size": 110.37,
+            "sizeInBytes": 110374,
+            "url": "/uploads/medium_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267.webp"
+          },
+          "large": {
+            "name": "large_A futuristic scene showing digital content being launched into space with high-tech satellites orbiting Earth, symbolizing fast global content deliver",
+            "hash": "large_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 1000,
+            "height": 1000,
+            "size": 169.54,
+            "sizeInBytes": 169538,
+            "url": "/uploads/large_A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267.webp"
+          }
+        },
+        "hash": "A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 227.04,
+        "url": "/uploads/A_futuristic_scene_showing_digital_content_being_launched_into_space_with_high_tech_satellites_orbiting_Earth_symbolizing_fast_global_content_deliver_1e5ad34267.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-11T14:16:57.570Z",
+        "updatedAt": "2025-03-25T15:56:46.689Z",
+        "publishedAt": "2024-09-11T14:16:57.571Z"
+      },
+      "localizations": [
+        {
+          "id": 10,
+          "documentId": "p6khbwj0s2g1y8xgtl8rpsys",
+          "title": "5 Raisons pour les Quelles Votre Contenu Doit Aller en Orbite",
+          "description": "D\u00e9couvrez les cinq principaux avantages de la mise en orbite de votre contenu avec LaunchPad. Des vitesses de livraison plus rapides \u00e0 une \u00e9volutivit\u00e9 in\u00e9gal\u00e9e, d\u00e9couvrez pourquoi votre contenu m\u00e9rite une solution de pointe. D\u00e9couvrez comment LaunchPad peut transformer la fa\u00e7on dont vous g\u00e9rez et diffusez vos ressources num\u00e9riques.",
+          "slug": "5-raisons-pour-les-quelles-votre-contenu-doit-aller-en-orbite",
+          "content": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dans le monde num\u00e9rique d'aujourd'hui, la rapidit\u00e9 de diffusion du contenu est primordiale. Avec l'augmentation de la demande mondiale d'acc\u00e8s en temps r\u00e9el aux actifs num\u00e9riques, les m\u00e9thodes de diffusion traditionnelles ne suffisent plus. Voici LaunchPad, une solution spatiale con\u00e7ue pour propulser votre contenu en orbite. Mais pourquoi faire le saut\u202f? Voici les cinq principales raisons pour lesquelles votre contenu doit aller en orbite :"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Des Vitesses de Diffusion Plus Rapides"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le temps, c'est de l'argent, et \u00e0 l'\u00e8re num\u00e9rique, la vitesse est cruciale. LaunchPad utilise une technologie de pointe pour garantir que votre contenu parvienne \u00e0 votre public \u00e0 des vitesses fulgurantes. Que ce soit une vid\u00e9o, une mise \u00e0 jour d'application ou un ensemble de donn\u00e9es volumineux, LaunchPad \u00e9limine la latence, offrant \u00e0 vos utilisateurs un acc\u00e8s fluide, o\u00f9 qu'ils se trouvent dans le monde."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "image": {
+                "name": "rocket-4.png",
+                "alternativeText": "rocket-4.png",
+                "url": "http://localhost:1337/uploads/rocket_4_55fae57ea4.png",
+                "caption": null,
+                "width": 1024,
+                "height": 1024,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_rocket-4.png",
+                    "hash": "thumbnail_rocket_4_55fae57ea4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 61.79,
+                    "sizeInBytes": 61794,
+                    "url": "/uploads/thumbnail_rocket_4_55fae57ea4.png"
+                  },
+                  "small": {
+                    "name": "small_rocket-4.png",
+                    "hash": "small_rocket_4_55fae57ea4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 576.79,
+                    "sizeInBytes": 576791,
+                    "url": "/uploads/small_rocket_4_55fae57ea4.png"
+                  },
+                  "medium": {
+                    "name": "medium_rocket-4.png",
+                    "hash": "medium_rocket_4_55fae57ea4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 750,
+                    "height": 750,
+                    "size": 1262.19,
+                    "sizeInBytes": 1262185,
+                    "url": "/uploads/medium_rocket_4_55fae57ea4.png"
+                  },
+                  "large": {
+                    "name": "large_rocket-4.png",
+                    "hash": "large_rocket_4_55fae57ea4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 1000,
+                    "height": 1000,
+                    "size": 2128.09,
+                    "sizeInBytes": 2128095,
+                    "url": "/uploads/large_rocket_4_55fae57ea4.png"
+                  }
+                },
+                "hash": "rocket_4_55fae57ea4",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 558.98,
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-08-07T14:30:25.318Z",
+                "updatedAt": "2024-08-07T14:30:25.318Z"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\u00c9volutivit\u00e9 In\u00e9gal\u00e9e"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\u00c0 mesure que votre entreprise se d\u00e9veloppe, la gestion de plus de contenu et sa diffusion \u00e0 de plus grandes audiences deviennent cruciales. LaunchPad offre une \u00e9volutivit\u00e9 sans pareille, permettant \u00e0 la diffusion de votre contenu de cro\u00eetre sans effort, sans compromettre les performances. Que vous touchiez des milliers ou des millions de personnes, vous n'aurez jamais \u00e0 vous soucier des goulets d'\u00e9tranglement ou des interruptions."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Port\u00e9e Mondiale"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Avec LaunchPad, les barri\u00e8res g\u00e9ographiques deviennent obsol\u00e8tes. Votre contenu est diffus\u00e9 mondialement avec facilit\u00e9, atteignant des audiences m\u00eame dans les coins les plus recul\u00e9s de la plan\u00e8te. L'infrastructure innovante de la plateforme permet \u00e0 vos actifs num\u00e9riques d'orbiter autour du globe, offrant une exp\u00e9rience coh\u00e9rente et fiable \u00e0 tous les utilisateurs, o\u00f9 qu'ils se trouvent."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "image": {
+                "name": "dashboard.png",
+                "alternativeText": "dashboard.png",
+                "url": "http://localhost:1337/uploads/dashboard_106c0d6b4b.png",
+                "caption": null,
+                "width": 1024,
+                "height": 1024,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_dashboard.png",
+                    "hash": "thumbnail_dashboard_106c0d6b4b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 44.97,
+                    "sizeInBytes": 44969,
+                    "url": "/uploads/thumbnail_dashboard_106c0d6b4b.png"
+                  },
+                  "small": {
+                    "name": "small_dashboard.png",
+                    "hash": "small_dashboard_106c0d6b4b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 357.2,
+                    "sizeInBytes": 357198,
+                    "url": "/uploads/small_dashboard_106c0d6b4b.png"
+                  },
+                  "medium": {
+                    "name": "medium_dashboard.png",
+                    "hash": "medium_dashboard_106c0d6b4b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 750,
+                    "height": 750,
+                    "size": 756.1,
+                    "sizeInBytes": 756097,
+                    "url": "/uploads/medium_dashboard_106c0d6b4b.png"
+                  },
+                  "large": {
+                    "name": "large_dashboard.png",
+                    "hash": "large_dashboard_106c0d6b4b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 1000,
+                    "height": 1000,
+                    "size": 1230.03,
+                    "sizeInBytes": 1230028,
+                    "url": "/uploads/large_dashboard_106c0d6b4b.png"
+                  }
+                },
+                "hash": "dashboard_106c0d6b4b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 364.41,
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-08-07T14:30:24.247Z",
+                "updatedAt": "2024-08-07T14:30:24.247Z"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "S\u00e9curit\u00e9 Renforc\u00e9e"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Votre contenu est pr\u00e9cieux, et LaunchPad prend sa protection tr\u00e8s au s\u00e9rieux. Avec des fonctionnalit\u00e9s de s\u00e9curit\u00e9 int\u00e9gr\u00e9es et \u00e0 la pointe de la technologie, vos actifs num\u00e9riques sont prot\u00e9g\u00e9s contre tout acc\u00e8s non autoris\u00e9 ou violation de donn\u00e9es. De l'encryption \u00e0 la surveillance continue, vous pouvez \u00eatre s\u00fbr que votre contenu est en s\u00e9curit\u00e9 dans l'espace."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Technologie P\u00e9renne"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\u00c0 mesure que la technologie \u00e9volue, la diffusion de votre contenu doit suivre. LaunchPad est con\u00e7u avec des capacit\u00e9s p\u00e9rennes, vous garantissant que votre strat\u00e9gie de contenu reste pertinente et comp\u00e9titive. Avec des mises \u00e0 jour constantes et une infrastructure tourn\u00e9e vers l'avenir, LaunchPad s'assure que vous \u00eates toujours \u00e0 la pointe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conclusion"
+                }
+              ],
+              "level": 2
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Propulser votre contenu en orbite ne se limite pas \u00e0 adopter une approche futuriste\u2014c'est une n\u00e9cessit\u00e9 pour rester comp\u00e9titif dans un paysage num\u00e9rique en rapide \u00e9volution. LaunchPad offre la vitesse, l'\u00e9volutivit\u00e9, la s\u00e9curit\u00e9 et la port\u00e9e mondiale dont votre contenu a besoin pour prosp\u00e9rer. Il est temps d\u2019emmener votre strat\u00e9gie de contenu vers de nouveaux sommets."
+                }
+              ]
+            }
+          ],
+          "createdAt": "2024-09-11T14:24:22.935Z",
+          "updatedAt": "2024-09-11T15:51:47.357Z",
+          "publishedAt": "2024-09-11T15:51:47.373Z",
+          "locale": "fr"
+        }
+      ],
+      "strapi_stage": null,
+      "strapi_assignee": null
+    },
+    {
+      "id": 11,
+      "documentId": "styfyd8glh6nboxhl6ei9gsh",
+      "title": "Case Study: How AstroContent Launched Their Marketing to New Heights",
+      "description": "In this case study, we explore how AstroContent leveraged OrbitExpress to revolutionize their marketing campaigns. Learn about the challenges they faced, the solutions provided by OrbitExpress, and the impressive results that took their content delivery to the next level.",
+      "slug": "case-study-how-astro-content-launched-their-marketing-to-new-heights",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AstroContent, a fast-growing digital marketing agency, was facing a common challenge: how to scale their content delivery without compromising speed, reliability, or user experience. With an expanding global audience and increasing demand for real-time access to high-quality content, they needed a solution that could keep up. Enter LaunchPad, a game-changing content delivery platform that helped AstroContent revolutionize their marketing strategy. Here\u2019s how they did it."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Challenge"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AstroContent\u2019s marketing campaigns relied heavily on delivering dynamic, media-rich content to their clients and their clients' audiences. However, as their customer base grew, they encountered several key challenges:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Slow content delivery times",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ", especially to users in remote regions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Difficulty scaling",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " their content delivery infrastructure without added complexity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Concerns over security",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ", given the volume of sensitive marketing data and assets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AstroContent knew they needed a solution that was fast, scalable, and secure\u2014without breaking the bank or requiring a complete overhaul of their existing infrastructure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Solution: LaunchPad"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AstroContent chose to partner with LaunchPad, a state-of-the-art content delivery platform designed to handle exactly these kinds of challenges. LaunchPad offered:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Faster global delivery",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ": LaunchPad\u2019s advanced infrastructure ensured that AstroContent could deliver their campaigns to audiences worldwide with minimal latency, even in hard-to-reach areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Effortless scalability",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ": As AstroContent\u2019s needs grew, LaunchPad easily adapted to handle larger volumes of content without impacting performance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Robust security features",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ": With end-to-end encryption and continuous monitoring, AstroContent could rest easy knowing their marketing assets were safe from cyber threats."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Results"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "With LaunchPad\u2019s help, AstroContent saw immediate improvements in their campaign performance:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "50% faster content delivery",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ", resulting in better user engagement and higher client satisfaction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Global reach",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ", allowing them to expand their campaigns into new markets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Improved security",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": ", with zero data breaches since implementing LaunchPad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AstroContent\u2019s marketing strategy was transformed, allowing them to focus on creativity and growth rather than worrying about infrastructure. Their campaigns now reach a wider audience, faster and more securely than ever before."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusion"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "By leveraging LaunchPad, AstroContent was able to overcome their content delivery challenges and take their marketing efforts to new heights. If you\u2019re looking to scale your content delivery with speed and security, LaunchPad could be the game-changer your business needs."
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-08-07T17:09:02.648Z",
+      "updatedAt": "2024-09-12T08:56:17.195Z",
+      "publishedAt": "2024-09-12T08:56:17.228Z",
+      "locale": "en",
+      "seo": null,
+      "categories": [
+        {
+          "id": 5,
+          "documentId": "q7b27x3sjh78ax8j0kpd165s",
+          "name": "analytics",
+          "createdAt": "2024-08-07T14:36:31.542Z",
+          "updatedAt": "2024-08-07T14:36:31.542Z",
+          "publishedAt": "2024-08-07T14:36:31.539Z"
+        },
+        {
+          "id": 8,
+          "documentId": "f0hsc82gdj5yax2ukpvx394s",
+          "name": "content",
+          "createdAt": "2024-09-11T14:20:17.657Z",
+          "updatedAt": "2024-09-11T14:20:17.657Z",
+          "publishedAt": "2024-09-11T14:20:17.654Z"
+        },
+        {
+          "id": 9,
+          "documentId": "z4u6wlz57c4oehmjenqmrl01",
+          "name": "marketing",
+          "createdAt": "2024-09-11T15:56:28.525Z",
+          "updatedAt": "2024-09-11T15:56:28.525Z",
+          "publishedAt": "2024-09-11T15:56:28.520Z"
+        }
+      ],
+      "dynamic_zone": [
+        {
+          "__component": "dynamic-zone.related-articles",
+          "id": 11,
+          "heading": null,
+          "sub_heading": null
+        }
+      ],
+      "image": {
+        "id": 37,
+        "documentId": "p8u9g4y2na0dmbs23mlbq0sw",
+        "name": "A natural setting where a team of professionals is launching a marketing campaign. The scene shows a modern office with large windows overlooking a ci.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_A natural setting where a team of professionals is launching a marketing campaign. The scene shows a modern office with large windows overlooking a ci.webp",
+            "hash": "thumbnail_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 156,
+            "height": 156,
+            "size": 8.2,
+            "sizeInBytes": 8202,
+            "url": "/uploads/thumbnail_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd.webp"
+          },
+          "small": {
+            "name": "small_A natural setting where a team of professionals is launching a marketing campaign. The scene shows a modern office with large windows overlooking a ci.webp",
+            "hash": "small_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 500,
+            "height": 500,
+            "size": 56.65,
+            "sizeInBytes": 56646,
+            "url": "/uploads/small_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd.webp"
+          },
+          "medium": {
+            "name": "medium_A natural setting where a team of professionals is launching a marketing campaign. The scene shows a modern office with large windows overlooking a ci.webp",
+            "hash": "medium_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 750,
+            "height": 750,
+            "size": 103.94,
+            "sizeInBytes": 103942,
+            "url": "/uploads/medium_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd.webp"
+          },
+          "large": {
+            "name": "large_A natural setting where a team of professionals is launching a marketing campaign. The scene shows a modern office with large windows overlooking a ci.webp",
+            "hash": "large_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 1000,
+            "height": 1000,
+            "size": 154.77,
+            "sizeInBytes": 154770,
+            "url": "/uploads/large_A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd.webp"
+          }
+        },
+        "hash": "A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 195.06,
+        "url": "/uploads/A_natural_setting_where_a_team_of_professionals_is_launching_a_marketing_campaign_The_scene_shows_a_modern_office_with_large_windows_overlooking_a_ci_165bacb7dd.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-11T15:12:13.451Z",
+        "updatedAt": "2025-03-25T15:56:47.618Z",
+        "publishedAt": "2024-09-11T15:12:13.451Z"
+      },
+      "localizations": [
+        {
+          "id": 9,
+          "documentId": "styfyd8glh6nboxhl6ei9gsh",
+          "title": "Comment AstroContent a Propuls\u00e9 son Marketing \u00e0 de Nouveaux Sommets",
+          "description": "Dans cette \u00e9tude de cas, nous explorons comment AstroContent a exploit\u00e9 LaunchPad pour r\u00e9volutionner ses campagnes marketing. D\u00e9couvrez les d\u00e9fis auxquels ils ont \u00e9t\u00e9 confront\u00e9s, les solutions fournies par LaunchPad et les r\u00e9sultats impressionnants qui ont port\u00e9 leur diffusion de contenu \u00e0 un niveau sup\u00e9rieur.",
+          "slug": "etude-de-cas-comment-astro-content-a-propulse-son-marketing-a-de-nouveaux-sommets",
+          "content": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "AstroContent, une agence de marketing digital en pleine croissance, faisait face \u00e0 un d\u00e9fi commun : comment augmenter la diffusion de son contenu sans compromettre la vitesse, la fiabilit\u00e9 ou l\u2019exp\u00e9rience utilisateur. Avec une audience mondiale en expansion et une demande croissante pour un acc\u00e8s en temps r\u00e9el \u00e0 du contenu de haute qualit\u00e9, ils avaient besoin d'une solution capable de suivre le rythme. C'est l\u00e0 qu'intervient LaunchPad, une plateforme r\u00e9volutionnaire de diffusion de contenu qui a aid\u00e9 AstroContent \u00e0 transformer sa strat\u00e9gie marketing. Voici comment."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le D\u00e9fi"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Les campagnes marketing d'AstroContent reposaient fortement sur la diffusion de contenu dynamique et riche en m\u00e9dias pour leurs clients et leur audience. Cependant, \u00e0 mesure que leur base de clients s'\u00e9largissait, ils ont rencontr\u00e9 plusieurs d\u00e9fis cl\u00e9s :"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Des temps de diffusion lents",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", en particulier pour les utilisateurs dans des r\u00e9gions \u00e9loign\u00e9es"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Des difficult\u00e9s \u00e0 \u00e9voluer",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": " leur infrastructure de diffusion de contenu sans ajouter de complexit\u00e9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Des pr\u00e9occupations li\u00e9es \u00e0 la s\u00e9curit\u00e9",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", compte tenu du volume de donn\u00e9es et d\u2019actifs marketing sensibles"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "AstroContent savait qu'il leur fallait une solution rapide, \u00e9volutive et s\u00e9curis\u00e9e\u2014sans n\u00e9cessiter de refonte compl\u00e8te de leur infrastructure existante."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La Solution : LaunchPad"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "AstroContent a choisi de collaborer avec LaunchPad, une plateforme de diffusion de contenu \u00e0 la pointe de la technologie con\u00e7ue pour relever ces d\u00e9fis. LaunchPad a offert :"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Une diffusion mondiale plus rapide",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": L'infrastructure avanc\u00e9e de LaunchPad a permis \u00e0 AstroContent de livrer ses campagnes \u00e0 des audiences du monde entier avec une latence minimale, m\u00eame dans les zones difficiles d\u2019acc\u00e8s."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Une \u00e9volutivit\u00e9 sans effort",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": \u00c0 mesure que les besoins d'AstroContent augmentaient, LaunchPad s\u2019adaptait facilement pour g\u00e9rer des volumes de contenu plus importants sans impacter les performances."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Des fonctionnalit\u00e9s de s\u00e9curit\u00e9 robustes",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": " : Avec un chiffrement de bout en bout et une surveillance continue, AstroContent pouvait \u00eatre tranquille en sachant que ses actifs marketing \u00e9taient prot\u00e9g\u00e9s contre les menaces cybern\u00e9tiques."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Les R\u00e9sultats"
+                }
+              ],
+              "level": 3
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Gr\u00e2ce \u00e0 LaunchPad, AstroContent a imm\u00e9diatement constat\u00e9 des am\u00e9liorations dans la performance de ses campagnes :"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Une livraison du contenu 50 % plus rapide",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", entra\u00eenant un meilleur engagement des utilisateurs et une satisfaction accrue des clients"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Une port\u00e9e mondiale",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", leur permettant d'\u00e9tendre leurs campagnes sur de nouveaux march\u00e9s"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Une s\u00e9curit\u00e9 renforc\u00e9e",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", avec z\u00e9ro violation de donn\u00e9es depuis la mise en place de LaunchPad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La strat\u00e9gie marketing d'AstroContent a \u00e9t\u00e9 transform\u00e9e, leur permettant de se concentrer sur la cr\u00e9ativit\u00e9 et la croissance sans se soucier de l\u2019infrastructure. Leurs campagnes atteignent d\u00e9sormais un public plus large, plus rapidement et plus en toute s\u00e9curit\u00e9 que jamais."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conclusion"
+                }
+              ],
+              "level": 2
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "En s'appuyant sur LaunchPad, AstroContent a pu surmonter ses d\u00e9fis de diffusion de contenu et propulser ses efforts marketing \u00e0 de nouveaux sommets. Si vous cherchez \u00e0 d\u00e9velopper votre diffusion de contenu avec rapidit\u00e9 et s\u00e9curit\u00e9, LaunchPad pourrait \u00eatre le levier de transformation dont votre entreprise a besoin."
+                }
+              ]
+            }
+          ],
+          "createdAt": "2024-09-11T15:51:25.676Z",
+          "updatedAt": "2024-09-11T15:51:27.507Z",
+          "publishedAt": "2024-09-11T15:51:27.519Z",
+          "locale": "fr"
+        }
+      ],
+      "strapi_stage": null,
+      "strapi_assignee": null
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

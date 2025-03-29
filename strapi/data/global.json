@@ -1,0 +1,43 @@
+{
+    "data": {
+        "id": 4,
+        "documentId": "en793kiwci00j3coe6fxod3r",
+        "createdAt": "2024-08-07T10:40:21.837Z",
+        "updatedAt": "2024-09-25T09:02:37.707Z",
+        "publishedAt": "2024-09-25T09:02:37.755Z",
+        "locale": "en",
+        "seo": {
+            "id": 6,
+            "metaTitle": "LaunchPad - Deliver Your Content into Orbit",
+            "metaDescription": "LaunchPad is the ultimate solution for delivering content at warp speed. Explore how our advanced technology launches your digital assets into space, making sure they reach your audience faster and more reliably.",
+            "keywords": null,
+            "metaRobots": null,
+            "structuredData": null,
+            "metaViewport": null,
+            "canonicalURL": null
+        },
+        "navbar": {
+            "id": 4
+        },
+        "footer": {
+            "id": 4,
+            "description": "LaunchPad is a rapid content delivery platform that helps you deliver content to your users in a fast and efficient way.",
+            "copyright": "Copyright \u00a9 2024 Strapi INC",
+            "designed_developed_by": "Designed and Developed by Strapi & Aceternity",
+            "built_with": "built with Strapi, Next.js, Tailwind CSS, Framer Motion, Aceternity UI, and icons8"
+        },
+        "localizations": [
+            {
+                "id": 3,
+                "documentId": "en793kiwci00j3coe6fxod3r",
+                "createdAt": "2024-09-10T13:13:42.737Z",
+                "updatedAt": "2024-09-16T12:31:27.776Z",
+                "publishedAt": "2024-09-16T12:31:27.809Z",
+                "locale": "fr"
+            }
+        ],
+        "strapi_stage": null,
+        "strapi_assignee": null
+    },
+    "meta": {}
+}

@@ -1,0 +1,800 @@
+{
+    "data": [
+        {
+            "id": 6,
+            "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+            "name": "Content Rocket Booster",
+            "price": 1500,
+            "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+            "slug": "content-rocket-booster",
+            "featured": true,
+            "createdAt": "2024-08-07T14:31:08.963Z",
+            "updatedAt": "2024-09-10T07:41:18.551Z",
+            "publishedAt": "2024-09-10T07:41:18.575Z",
+            "images": [
+                {
+                    "id": 19,
+                    "documentId": "dgvxwxtr5pxwozkguevv50e3",
+                    "name": "rocket-1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-1.png",
+                            "hash": "thumbnail_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 62.44,
+                            "sizeInBytes": 62436,
+                            "url": "/uploads/thumbnail_rocket_1_f4ba43fca0.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-1.png",
+                            "hash": "small_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 594.69,
+                            "sizeInBytes": 594692,
+                            "url": "/uploads/small_rocket_1_f4ba43fca0.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-1.png",
+                            "hash": "medium_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1319.64,
+                            "sizeInBytes": 1319639,
+                            "url": "/uploads/medium_rocket_1_f4ba43fca0.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-1.png",
+                            "hash": "large_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 2238.12,
+                            "sizeInBytes": 2238124,
+                            "url": "/uploads/large_rocket_1_f4ba43fca0.png"
+                        }
+                    },
+                    "hash": "rocket_1_f4ba43fca0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 575.75,
+                    "url": "/uploads/rocket_1_f4ba43fca0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.890Z",
+                    "updatedAt": "2025-03-25T15:56:43.540Z",
+                    "publishedAt": "2024-08-07T14:30:24.890Z"
+                },
+                {
+                    "id": 17,
+                    "documentId": "mrdyqmal0qn2bz20jv2hsv8y",
+                    "name": "rocket-2.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-2.png",
+                            "hash": "thumbnail_rocket_2_26370b67c0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 54.78,
+                            "sizeInBytes": 54777,
+                            "url": "/uploads/thumbnail_rocket_2_26370b67c0.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-2.png",
+                            "hash": "small_rocket_2_26370b67c0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 485.71,
+                            "sizeInBytes": 485709,
+                            "url": "/uploads/small_rocket_2_26370b67c0.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-2.png",
+                            "hash": "medium_rocket_2_26370b67c0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1041.1,
+                            "sizeInBytes": 1041099,
+                            "url": "/uploads/medium_rocket_2_26370b67c0.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-2.png",
+                            "hash": "large_rocket_2_26370b67c0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 1712.34,
+                            "sizeInBytes": 1712339,
+                            "url": "/uploads/large_rocket_2_26370b67c0.png"
+                        }
+                    },
+                    "hash": "rocket_2_26370b67c0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 495.87,
+                    "url": "/uploads/rocket_2_26370b67c0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.285Z",
+                    "updatedAt": "2025-03-25T15:56:42.785Z",
+                    "publishedAt": "2024-08-07T14:30:24.286Z"
+                }
+            ],
+            "perks": [
+                {
+                    "id": 70,
+                    "text": "Increases delivery speed by 50%"
+                },
+                {
+                    "id": 71,
+                    "text": "Optimized for heavy content loads"
+                },
+                {
+                    "id": 72,
+                    "text": "Easy integration with existing payloads"
+                }
+            ],
+            "plans": [],
+            "categories": [
+                {
+                    "id": 2,
+                    "documentId": "vbjx3uaqr5u28n1tlcnl5a2w",
+                    "name": "booster",
+                    "createdAt": "2024-08-07T14:32:01.984Z",
+                    "updatedAt": "2024-08-07T14:32:03.643Z",
+                    "publishedAt": "2024-08-07T14:32:03.646Z"
+                },
+                {
+                    "id": 1,
+                    "documentId": "qwsvenbtmt0l7qkzuyiw56uo",
+                    "name": "rocket",
+                    "createdAt": "2024-08-07T14:31:49.803Z",
+                    "updatedAt": "2024-08-07T14:31:54.599Z",
+                    "publishedAt": "2024-08-07T14:31:54.604Z"
+                }
+            ],
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.related-products",
+                    "id": 6,
+                    "heading": "Related Products",
+                    "sub_heading": "You might be interested by these products"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 7,
+            "documentId": "okwmgmnt070hwh9t4496sxb5",
+            "name": "Analytics Insight Pack",
+            "price": 750,
+            "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+            "slug": "analytics-insight-pack",
+            "featured": true,
+            "createdAt": "2024-08-07T14:36:10.854Z",
+            "updatedAt": "2024-09-12T09:06:26.365Z",
+            "publishedAt": "2024-09-12T09:06:26.394Z",
+            "images": [
+                {
+                    "id": 16,
+                    "documentId": "t84m2suuxcig1dh9hxxab2t6",
+                    "name": "dashboard.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_dashboard.png",
+                            "hash": "thumbnail_dashboard_106c0d6b4b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 44.97,
+                            "sizeInBytes": 44969,
+                            "url": "/uploads/thumbnail_dashboard_106c0d6b4b.png"
+                        },
+                        "small": {
+                            "name": "small_dashboard.png",
+                            "hash": "small_dashboard_106c0d6b4b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 357.2,
+                            "sizeInBytes": 357198,
+                            "url": "/uploads/small_dashboard_106c0d6b4b.png"
+                        },
+                        "medium": {
+                            "name": "medium_dashboard.png",
+                            "hash": "medium_dashboard_106c0d6b4b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 756.1,
+                            "sizeInBytes": 756097,
+                            "url": "/uploads/medium_dashboard_106c0d6b4b.png"
+                        },
+                        "large": {
+                            "name": "large_dashboard.png",
+                            "hash": "large_dashboard_106c0d6b4b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 1230.03,
+                            "sizeInBytes": 1230028,
+                            "url": "/uploads/large_dashboard_106c0d6b4b.png"
+                        }
+                    },
+                    "hash": "dashboard_106c0d6b4b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 364.41,
+                    "url": "/uploads/dashboard_106c0d6b4b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.247Z",
+                    "updatedAt": "2025-03-25T15:56:42.235Z",
+                    "publishedAt": "2024-08-07T14:30:24.247Z"
+                }
+            ],
+            "perks": [
+                {
+                    "id": 73,
+                    "text": "Detailed performance reports"
+                },
+                {
+                    "id": 74,
+                    "text": "Customizable analytics dashboard"
+                },
+                {
+                    "id": 75,
+                    "text": "Integration with third-party analytics tools"
+                }
+            ],
+            "plans": [],
+            "categories": [
+                {
+                    "id": 4,
+                    "documentId": "uz0mtwi6x41374llbsdpf5x9",
+                    "name": "dashboard",
+                    "createdAt": "2024-08-07T14:36:23.549Z",
+                    "updatedAt": "2024-08-07T14:36:23.549Z",
+                    "publishedAt": "2024-08-07T14:36:23.546Z"
+                },
+                {
+                    "id": 5,
+                    "documentId": "q7b27x3sjh78ax8j0kpd165s",
+                    "name": "analytics",
+                    "createdAt": "2024-08-07T14:36:31.542Z",
+                    "updatedAt": "2024-08-07T14:36:31.542Z",
+                    "publishedAt": "2024-08-07T14:36:31.539Z"
+                }
+            ],
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.related-products",
+                    "id": 7,
+                    "heading": "Related Products",
+                    "sub_heading": "Recently rose to popularity"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 8,
+            "documentId": "hptfn0nu6p5tgrbprrd83x45",
+            "name": "Enterprise Integration Kit",
+            "price": 8000,
+            "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+            "slug": "enterprise-integration-kit",
+            "featured": null,
+            "createdAt": "2024-08-07T14:38:25.387Z",
+            "updatedAt": "2024-09-12T10:40:25.878Z",
+            "publishedAt": "2024-09-12T10:40:25.911Z",
+            "images": [
+                {
+                    "id": 18,
+                    "documentId": "herx65mzfrvsztiql417lqsf",
+                    "name": "rocket-3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-3.png",
+                            "hash": "thumbnail_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 62.33,
+                            "sizeInBytes": 62327,
+                            "url": "/uploads/thumbnail_rocket_3_9a94bfe837.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-3.png",
+                            "hash": "small_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 583.53,
+                            "sizeInBytes": 583530,
+                            "url": "/uploads/small_rocket_3_9a94bfe837.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-3.png",
+                            "hash": "medium_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1276.25,
+                            "sizeInBytes": 1276250,
+                            "url": "/uploads/medium_rocket_3_9a94bfe837.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-3.png",
+                            "hash": "large_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 2150.01,
+                            "sizeInBytes": 2150013,
+                            "url": "/uploads/large_rocket_3_9a94bfe837.png"
+                        }
+                    },
+                    "hash": "rocket_3_9a94bfe837",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 552.52,
+                    "url": "/uploads/rocket_3_9a94bfe837.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.578Z",
+                    "updatedAt": "2025-03-25T15:56:43.146Z",
+                    "publishedAt": "2024-08-07T14:30:24.578Z"
+                }
+            ],
+            "perks": [
+                {
+                    "id": 76,
+                    "text": "Customizable integration options"
+                },
+                {
+                    "id": 77,
+                    "text": "Support for multiple platforms and services"
+                },
+                {
+                    "id": 78,
+                    "text": "Dedicated integration support"
+                }
+            ],
+            "plans": [],
+            "categories": [
+                {
+                    "id": 7,
+                    "documentId": "c2kr9hc89hd4rzfunvih66ct",
+                    "name": "integration",
+                    "createdAt": "2024-08-07T14:38:35.908Z",
+                    "updatedAt": "2024-09-11T15:56:38.344Z",
+                    "publishedAt": "2024-09-11T15:56:38.333Z"
+                }
+            ],
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.related-products",
+                    "id": 8,
+                    "heading": "Related Products",
+                    "sub_heading": "Recently rose to popularity"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 9,
+            "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+            "name": "Mission Control Plus",
+            "price": 3000,
+            "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+            "slug": "mission-control-plus",
+            "featured": null,
+            "createdAt": "2024-08-07T14:37:26.800Z",
+            "updatedAt": "2024-09-12T10:40:42.599Z",
+            "publishedAt": "2024-09-12T10:40:42.626Z",
+            "images": [
+                {
+                    "id": 19,
+                    "documentId": "dgvxwxtr5pxwozkguevv50e3",
+                    "name": "rocket-1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-1.png",
+                            "hash": "thumbnail_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 62.44,
+                            "sizeInBytes": 62436,
+                            "url": "/uploads/thumbnail_rocket_1_f4ba43fca0.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-1.png",
+                            "hash": "small_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 594.69,
+                            "sizeInBytes": 594692,
+                            "url": "/uploads/small_rocket_1_f4ba43fca0.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-1.png",
+                            "hash": "medium_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1319.64,
+                            "sizeInBytes": 1319639,
+                            "url": "/uploads/medium_rocket_1_f4ba43fca0.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-1.png",
+                            "hash": "large_rocket_1_f4ba43fca0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 2238.12,
+                            "sizeInBytes": 2238124,
+                            "url": "/uploads/large_rocket_1_f4ba43fca0.png"
+                        }
+                    },
+                    "hash": "rocket_1_f4ba43fca0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 575.75,
+                    "url": "/uploads/rocket_1_f4ba43fca0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.890Z",
+                    "updatedAt": "2025-03-25T15:56:43.540Z",
+                    "publishedAt": "2024-08-07T14:30:24.890Z"
+                }
+            ],
+            "perks": [
+                {
+                    "id": 79,
+                    "text": "Advanced monitoring tools"
+                },
+                {
+                    "id": 80,
+                    "text": "Real-time status updates"
+                },
+                {
+                    "id": 81,
+                    "text": "Automated alerts and notifications"
+                }
+            ],
+            "plans": [
+                {
+                    "id": 6,
+                    "documentId": "ysf6c3nbf9n2ik07vr572kve",
+                    "name": "Pro Rocket",
+                    "price": 3000,
+                    "sub_text": "launch",
+                    "featured": null,
+                    "createdAt": "2024-08-07T10:11:28.756Z",
+                    "updatedAt": "2024-09-04T11:16:58.599Z",
+                    "publishedAt": "2024-09-04T11:25:46.857Z"
+                },
+                {
+                    "id": 5,
+                    "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+                    "name": "Starter Shuttle",
+                    "price": 100,
+                    "sub_text": "launch",
+                    "featured": null,
+                    "createdAt": "2024-08-07T10:10:39.444Z",
+                    "updatedAt": "2024-09-04T08:57:57.135Z",
+                    "publishedAt": "2024-09-04T11:25:46.857Z"
+                }
+            ],
+            "categories": [],
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.related-products",
+                    "id": 9,
+                    "heading": "Related Products",
+                    "sub_heading": "Recently rose to popularity"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 10,
+            "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+            "name": "Payload Manager Pro",
+            "price": 2000,
+            "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+            "slug": "payload-manager-pro",
+            "featured": true,
+            "createdAt": "2024-08-07T14:33:49.508Z",
+            "updatedAt": "2024-09-12T10:40:52.601Z",
+            "publishedAt": "2024-09-12T10:40:52.666Z",
+            "images": [
+                {
+                    "id": 18,
+                    "documentId": "herx65mzfrvsztiql417lqsf",
+                    "name": "rocket-3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-3.png",
+                            "hash": "thumbnail_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 62.33,
+                            "sizeInBytes": 62327,
+                            "url": "/uploads/thumbnail_rocket_3_9a94bfe837.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-3.png",
+                            "hash": "small_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 583.53,
+                            "sizeInBytes": 583530,
+                            "url": "/uploads/small_rocket_3_9a94bfe837.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-3.png",
+                            "hash": "medium_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1276.25,
+                            "sizeInBytes": 1276250,
+                            "url": "/uploads/medium_rocket_3_9a94bfe837.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-3.png",
+                            "hash": "large_rocket_3_9a94bfe837",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 2150.01,
+                            "sizeInBytes": 2150013,
+                            "url": "/uploads/large_rocket_3_9a94bfe837.png"
+                        }
+                    },
+                    "hash": "rocket_3_9a94bfe837",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 552.52,
+                    "url": "/uploads/rocket_3_9a94bfe837.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:24.578Z",
+                    "updatedAt": "2025-03-25T15:56:43.146Z",
+                    "publishedAt": "2024-08-07T14:30:24.578Z"
+                },
+                {
+                    "id": 20,
+                    "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+                    "name": "rocket-4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 1024,
+                    "height": 1024,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_rocket-4.png",
+                            "hash": "thumbnail_rocket_4_55fae57ea4",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 156,
+                            "height": 156,
+                            "size": 61.79,
+                            "sizeInBytes": 61794,
+                            "url": "/uploads/thumbnail_rocket_4_55fae57ea4.png"
+                        },
+                        "small": {
+                            "name": "small_rocket-4.png",
+                            "hash": "small_rocket_4_55fae57ea4",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 500,
+                            "height": 500,
+                            "size": 576.79,
+                            "sizeInBytes": 576791,
+                            "url": "/uploads/small_rocket_4_55fae57ea4.png"
+                        },
+                        "medium": {
+                            "name": "medium_rocket-4.png",
+                            "hash": "medium_rocket_4_55fae57ea4",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 750,
+                            "height": 750,
+                            "size": 1262.19,
+                            "sizeInBytes": 1262185,
+                            "url": "/uploads/medium_rocket_4_55fae57ea4.png"
+                        },
+                        "large": {
+                            "name": "large_rocket-4.png",
+                            "hash": "large_rocket_4_55fae57ea4",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "path": null,
+                            "width": 1000,
+                            "height": 1000,
+                            "size": 2128.09,
+                            "sizeInBytes": 2128095,
+                            "url": "/uploads/large_rocket_4_55fae57ea4.png"
+                        }
+                    },
+                    "hash": "rocket_4_55fae57ea4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 558.98,
+                    "url": "/uploads/rocket_4_55fae57ea4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-08-07T14:30:25.318Z",
+                    "updatedAt": "2025-03-25T15:56:43.967Z",
+                    "publishedAt": "2024-08-07T14:30:25.319Z"
+                }
+            ],
+            "perks": [
+                {
+                    "id": 82,
+                    "text": "Advanced content organization tools"
+                },
+                {
+                    "id": 83,
+                    "text": "Collaborative workspace"
+                },
+                {
+                    "id": 84,
+                    "text": "Real-time updates and tracking"
+                }
+            ],
+            "plans": [
+                {
+                    "id": 8,
+                    "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+                    "name": "Enterprise Shuttle",
+                    "price": null,
+                    "sub_text": "",
+                    "featured": null,
+                    "createdAt": "2024-08-07T10:13:12.700Z",
+                    "updatedAt": "2024-09-09T11:35:02.008Z",
+                    "publishedAt": "2024-09-09T11:35:02.030Z"
+                },
+                {
+                    "id": 7,
+                    "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+                    "name": "Team Explorer",
+                    "price": 15000,
+                    "sub_text": "launch",
+                    "featured": true,
+                    "createdAt": "2024-08-07T10:12:17.980Z",
+                    "updatedAt": "2024-09-04T11:17:25.172Z",
+                    "publishedAt": "2024-09-04T11:25:46.857Z"
+                }
+            ],
+            "categories": [
+                {
+                    "id": 3,
+                    "documentId": "fi5rtzu2jzqnmzvjg27w45pl",
+                    "name": "software",
+                    "createdAt": "2024-08-07T14:34:57.647Z",
+                    "updatedAt": "2024-08-07T14:34:57.647Z",
+                    "publishedAt": "2024-08-07T14:34:57.644Z"
+                }
+            ],
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.related-products",
+                    "id": 10,
+                    "heading": "Related Products",
+                    "sub_heading": "Recently rose to popularity"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}

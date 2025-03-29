@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "documentId": "s82rqoz3rwl48arhkilidr19",
+            "source": "/i-have-a-question",
+            "destination": "/faq",
+            "createdAt": "2024-09-13T12:14:11.550Z",
+            "updatedAt": "2024-09-16T12:54:10.775Z",
+            "publishedAt": "2024-09-16T12:54:10.787Z",
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 4,
+            "documentId": "iy8ejugocfok30wlksglr8sc",
+            "source": "/producs",
+            "destination": "/products",
+            "createdAt": "2024-09-16T12:54:25.338Z",
+            "updatedAt": "2024-09-16T12:54:25.338Z",
+            "publishedAt": "2024-09-16T12:54:25.343Z",
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}

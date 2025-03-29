@@ -1,0 +1,263 @@
+{
+    "data": [
+        {
+            "id": 5,
+            "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+            "name": "Starter Shuttle",
+            "price": 100,
+            "sub_text": "launch",
+            "featured": null,
+            "createdAt": "2024-08-07T10:10:39.444Z",
+            "updatedAt": "2024-09-04T08:57:57.135Z",
+            "publishedAt": "2024-09-04T11:25:46.857Z",
+            "CTA": {
+                "id": 37,
+                "text": "Get Started",
+                "URL": null,
+                "target": null,
+                "variant": "primary"
+            },
+            "perks": [
+                {
+                    "id": 28,
+                    "text": "Launch up to 1,000 content items"
+                },
+                {
+                    "id": 29,
+                    "text": "Basic Mission Control Dashboard"
+                },
+                {
+                    "id": 30,
+                    "text": "Standard Delivery"
+                },
+                {
+                    "id": 31,
+                    "text": "Basic analytics"
+                }
+            ],
+            "additional_perks": [],
+            "product": {
+                "id": 9,
+                "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+                "name": "Mission Control Plus",
+                "price": 3000,
+                "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+                "slug": "mission-control-plus",
+                "featured": null,
+                "createdAt": "2024-08-07T14:37:26.800Z",
+                "updatedAt": "2024-09-12T10:40:42.599Z",
+                "publishedAt": "2024-09-12T10:40:42.626Z"
+            },
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 6,
+            "documentId": "ysf6c3nbf9n2ik07vr572kve",
+            "name": "Pro Rocket",
+            "price": 3000,
+            "sub_text": "launch",
+            "featured": null,
+            "createdAt": "2024-08-07T10:11:28.756Z",
+            "updatedAt": "2024-09-04T11:16:58.599Z",
+            "publishedAt": "2024-09-04T11:25:46.857Z",
+            "CTA": {
+                "id": 38,
+                "text": "Get Started",
+                "URL": null,
+                "target": null,
+                "variant": "primary"
+            },
+            "perks": [
+                {
+                    "id": 32,
+                    "text": "Launch up to 100,000 content items"
+                },
+                {
+                    "id": 33,
+                    "text": "Advanced Mission Control Dashboard"
+                },
+                {
+                    "id": 34,
+                    "text": "High Speed Delivery"
+                },
+                {
+                    "id": 35,
+                    "text": "Advanced analytics"
+                },
+                {
+                    "id": 36,
+                    "text": "Priority Support"
+                }
+            ],
+            "additional_perks": [
+                {
+                    "id": 37,
+                    "text": "Everything included from Starter Shuttle"
+                }
+            ],
+            "product": {
+                "id": 9,
+                "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+                "name": "Mission Control Plus",
+                "price": 3000,
+                "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+                "slug": "mission-control-plus",
+                "featured": null,
+                "createdAt": "2024-08-07T14:37:26.800Z",
+                "updatedAt": "2024-09-12T10:40:42.599Z",
+                "publishedAt": "2024-09-12T10:40:42.626Z"
+            },
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 7,
+            "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+            "name": "Team Explorer",
+            "price": 15000,
+            "sub_text": "launch",
+            "featured": true,
+            "createdAt": "2024-08-07T10:12:17.980Z",
+            "updatedAt": "2024-09-04T11:17:25.172Z",
+            "publishedAt": "2024-09-04T11:25:46.857Z",
+            "CTA": {
+                "id": 39,
+                "text": "Get Started",
+                "URL": null,
+                "target": null,
+                "variant": "primary"
+            },
+            "perks": [
+                {
+                    "id": 38,
+                    "text": "Launch up to 1,000,000 content items"
+                },
+                {
+                    "id": 39,
+                    "text": "Collaborative Mission Control Dashboard"
+                },
+                {
+                    "id": 40,
+                    "text": "High-Speed Delivery"
+                },
+                {
+                    "id": 41,
+                    "text": "Advanced analytics and reporting"
+                },
+                {
+                    "id": 42,
+                    "text": "Priority Support"
+                },
+                {
+                    "id": 43,
+                    "text": "Team collaboration tools"
+                }
+            ],
+            "additional_perks": [
+                {
+                    "id": 44,
+                    "text": "Everything included from Starter Shuttle"
+                },
+                {
+                    "id": 45,
+                    "text": "Everything included from Pro Rocket"
+                }
+            ],
+            "product": {
+                "id": 10,
+                "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+                "name": "Payload Manager Pro",
+                "price": 2000,
+                "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+                "slug": "payload-manager-pro",
+                "featured": true,
+                "createdAt": "2024-08-07T14:33:49.508Z",
+                "updatedAt": "2024-09-12T10:40:52.601Z",
+                "publishedAt": "2024-09-12T10:40:52.666Z"
+            },
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 8,
+            "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+            "name": "Enterprise Shuttle",
+            "price": null,
+            "sub_text": "",
+            "featured": null,
+            "createdAt": "2024-08-07T10:13:12.700Z",
+            "updatedAt": "2024-09-09T11:35:02.008Z",
+            "publishedAt": "2024-09-09T11:35:02.030Z",
+            "CTA": {
+                "id": 40,
+                "text": "Contact us",
+                "URL": null,
+                "target": null,
+                "variant": "primary"
+            },
+            "perks": [
+                {
+                    "id": 46,
+                    "text": "Unlimited content items per launch"
+                },
+                {
+                    "id": 47,
+                    "text": "Customizable Mission Control Dashboard"
+                },
+                {
+                    "id": 48,
+                    "text": "Ultra-Speed Delivery"
+                },
+                {
+                    "id": 49,
+                    "text": "Comprehensive analytics and reporting"
+                },
+                {
+                    "id": 50,
+                    "text": "Dedicated Support Team"
+                },
+                {
+                    "id": 51,
+                    "text": "Custom Integrations and Solutions"
+                }
+            ],
+            "additional_perks": [
+                {
+                    "id": 52,
+                    "text": "Everything included from Starter Shuttle"
+                },
+                {
+                    "id": 53,
+                    "text": "Everything included from Pro Rocket"
+                },
+                {
+                    "id": 54,
+                    "text": "Everything included from Team Explorer"
+                }
+            ],
+            "product": {
+                "id": 10,
+                "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+                "name": "Payload Manager Pro",
+                "price": 2000,
+                "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+                "slug": "payload-manager-pro",
+                "featured": true,
+                "createdAt": "2024-08-07T14:33:49.508Z",
+                "updatedAt": "2024-09-12T10:40:52.601Z",
+                "publishedAt": "2024-09-12T10:40:52.666Z"
+            },
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 4
+        }
+    }
+}

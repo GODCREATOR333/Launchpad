@@ -1,0 +1,232 @@
+{
+    "data": [
+        {
+            "id": 9,
+            "documentId": "jj3fjkefr39096p7whli2o1x",
+            "slug": "homepage",
+            "createdAt": "2024-08-07T08:43:05.010Z",
+            "updatedAt": "2024-09-16T12:30:29.561Z",
+            "publishedAt": "2024-09-16T12:30:29.635Z",
+            "locale": "en",
+            "seo": {
+                "id": 15,
+                "metaTitle": "LaunchPad - Deliver Your Content into Orbit",
+                "metaDescription": "LaunchPad is the ultimate solution for delivering content at warp speed. Explore how our advanced technology launches your digital assets into space, making sure they reach your audience faster and more reliably.",
+                "keywords": null,
+                "metaRobots": null,
+                "structuredData": null,
+                "metaViewport": null,
+                "canonicalURL": null
+            },
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.hero",
+                    "id": 3,
+                    "heading": "Launch your content into orbit",
+                    "sub_heading": "Deliver your web content at warp speed with LaunchPad."
+                },
+                {
+                    "__component": "dynamic-zone.features",
+                    "id": 3,
+                    "heading": "Features to Propel Your Content",
+                    "sub_heading": "LaunchPad offers a variety of features to help you deliver content to your users in a fast and efficient way."
+                },
+                {
+                    "__component": "dynamic-zone.testimonials",
+                    "id": 2,
+                    "heading": "What Our Users Say",
+                    "sub_heading": "Hear from our satisfied users who have experienced the benefits of our service firsthand."
+                },
+                {
+                    "__component": "dynamic-zone.how-it-works",
+                    "id": 3,
+                    "heading": "How LaunchPad works",
+                    "sub_heading": "Discover LaunchPad's innovative system: revolutionizing content delivery for global, high-speed user access."
+                },
+                {
+                    "__component": "dynamic-zone.brands",
+                    "id": 5,
+                    "heading": "Trusted by Leading Brands",
+                    "sub_heading": "LaunchPad is trusted by fortune 500 space organizations."
+                },
+                {
+                    "__component": "dynamic-zone.pricing",
+                    "id": 5,
+                    "heading": "Pricing",
+                    "sub_heading": "Choose your payload."
+                },
+                {
+                    "__component": "dynamic-zone.launches",
+                    "id": 3,
+                    "heading": "Recent Launches",
+                    "sub_heading": "Our latest launches that made it to the universe."
+                },
+                {
+                    "__component": "dynamic-zone.cta",
+                    "id": 7,
+                    "heading": "Ready to Launch Your Content?",
+                    "sub_heading": "Join LaunchPad and start delivering your content with the speed and reliability of a space shuttle."
+                }
+            ],
+            "localizations": [
+                {
+                    "id": 16,
+                    "documentId": "jj3fjkefr39096p7whli2o1x",
+                    "slug": "homepage",
+                    "createdAt": "2024-09-10T16:43:27.821Z",
+                    "updatedAt": "2024-09-25T09:03:10.790Z",
+                    "publishedAt": "2024-09-25T09:03:10.855Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 10,
+            "documentId": "v2q7m5pvvzibefz5zv4cvq62",
+            "slug": "pricing",
+            "createdAt": "2024-08-07T17:05:01.681Z",
+            "updatedAt": "2024-09-16T12:35:49.630Z",
+            "publishedAt": "2024-09-16T12:35:49.668Z",
+            "locale": "en",
+            "seo": {
+                "id": 16,
+                "metaTitle": "Pricing Plans - LaunchPad Content Delivery Solutions",
+                "metaDescription": "Choose the perfect plan for your content delivery needs. Explore LaunchPad's pricing options from Starter to Enterprise, designed to accommodate businesses of all sizes with scalable solutions.",
+                "keywords": null,
+                "metaRobots": null,
+                "structuredData": null,
+                "metaViewport": null,
+                "canonicalURL": null
+            },
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.pricing",
+                    "id": 6,
+                    "heading": "Pricing",
+                    "sub_heading": "Choose your payload."
+                },
+                {
+                    "__component": "dynamic-zone.brands",
+                    "id": 6,
+                    "heading": "Trusted by Leading Brands",
+                    "sub_heading": "LaunchPad is trusted by fortune 500 space organizations."
+                },
+                {
+                    "__component": "dynamic-zone.cta",
+                    "id": 8,
+                    "heading": "Ready to Launch Your Content?",
+                    "sub_heading": "Join LaunchPad and start delivering your content with the speed and reliability of a space shuttle."
+                }
+            ],
+            "localizations": [
+                {
+                    "id": 11,
+                    "documentId": "v2q7m5pvvzibefz5zv4cvq62",
+                    "slug": "pricing",
+                    "createdAt": "2024-09-10T16:41:11.137Z",
+                    "updatedAt": "2024-09-16T12:36:41.706Z",
+                    "publishedAt": "2024-09-16T12:36:41.737Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 13,
+            "documentId": "sklmmefiyatesgq8r473lkzh",
+            "slug": "contact",
+            "createdAt": "2024-09-05T12:23:34.804Z",
+            "updatedAt": "2024-09-16T12:38:36.872Z",
+            "publishedAt": "2024-09-16T12:38:36.912Z",
+            "locale": "en",
+            "seo": {
+                "id": 19,
+                "metaTitle": "Contact Us - LaunchPad Support and Inquiries",
+                "metaDescription": "Need help or have questions? Reach out to LaunchPad's support team for assistance. We're here to help you with any inquiries, product information, or technical support.",
+                "keywords": null,
+                "metaRobots": null,
+                "structuredData": null,
+                "metaViewport": null,
+                "canonicalURL": null
+            },
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.form-next-to-section",
+                    "id": 4,
+                    "heading": "Contact Us",
+                    "sub_heading": "Please reach out to us and we will get back to you at the speed of light."
+                }
+            ],
+            "localizations": [
+                {
+                    "id": 12,
+                    "documentId": "sklmmefiyatesgq8r473lkzh",
+                    "slug": "contact",
+                    "createdAt": "2024-09-10T16:36:12.256Z",
+                    "updatedAt": "2024-09-16T12:38:18.089Z",
+                    "publishedAt": "2024-09-16T12:38:18.131Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        },
+        {
+            "id": 14,
+            "documentId": "kw6bbewtxd1gqxb8k091b6vm",
+            "slug": "faq",
+            "createdAt": "2024-09-05T13:22:40.963Z",
+            "updatedAt": "2024-09-16T12:39:04.002Z",
+            "publishedAt": "2024-09-16T12:39:04.030Z",
+            "locale": "en",
+            "seo": {
+                "id": 20,
+                "metaTitle": "Frequently Asked Questions - LaunchPad",
+                "metaDescription": "Get answers to the most common questions about LaunchPad. Explore our FAQ page to learn more about our pricing plans, product features, and how to get started with content delivery.",
+                "keywords": null,
+                "metaRobots": null,
+                "structuredData": null,
+                "metaViewport": null,
+                "canonicalURL": null
+            },
+            "dynamic_zone": [
+                {
+                    "__component": "dynamic-zone.faq",
+                    "id": 3,
+                    "heading": "Frequently Asked Questions",
+                    "sub_heading": null
+                },
+                {
+                    "__component": "dynamic-zone.cta",
+                    "id": 10,
+                    "heading": "Ready to Launch Your Content?",
+                    "sub_heading": "Join LaunchPad and start delivering your content with the speed and reliability of a space shuttle."
+                }
+            ],
+            "localizations": [
+                {
+                    "id": 15,
+                    "documentId": "kw6bbewtxd1gqxb8k091b6vm",
+                    "slug": "faq",
+                    "createdAt": "2024-09-10T16:22:58.630Z",
+                    "updatedAt": "2024-09-16T12:39:31.964Z",
+                    "publishedAt": "2024-09-16T12:39:31.993Z",
+                    "locale": "fr"
+                }
+            ],
+            "strapi_stage": null,
+            "strapi_assignee": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 4
+        }
+    }
+}
