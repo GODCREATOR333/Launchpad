@@ -8,6 +8,7 @@ import { CartProvider } from '@/context/cart-context';
 import { cn } from '@/lib/utils';
 import { ViewTransitions } from 'next-view-transitions';
 import fetchContentType from '@/lib/strapi/fetchContentType';
+import { Hero } from '@/components/dynamic-zone/hero';
 
 const inter = Inter({
   subsets: ["latin"],
@@ -71,6 +72,12 @@ export default async function LocaleLayout({
           >
             <Navbar data={pageData.navbar} locale={locale} />
             {children}
+            <Hero 
+              heading="Welcome to My Site"
+              sub_heading="This is the best place to find awesome stuff."
+              CTAs={[]} // Empty array to prevent errors
+              locale={locale}
+            />
             <Footer 
               data={pageData.footer || {}} 
               locale={locale} 
